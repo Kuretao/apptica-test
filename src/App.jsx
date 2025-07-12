@@ -12,10 +12,6 @@ function App() {
 
 const Container = styled.div`
     width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
     min-width: 375px;
 `;
 
